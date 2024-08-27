@@ -58,6 +58,6 @@ ul {
 /* Media query for mobile devices */
 @media screen and (max-width: 768px) {
     .info-pessoal, .info {
-        width: 95%; /* Ajusta a largura para telas menores */
+        width: 90%; /* Ajusta a largura para telas menores */
     }
 }
